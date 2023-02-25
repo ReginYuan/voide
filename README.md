@@ -1,2 +1,2 @@
-# voide
-视频小程序
+# miniprogram
+微信小程序
